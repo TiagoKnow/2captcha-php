@@ -1,5 +1,5 @@
 {
-    "name": "2captcha/2captcha",
+    "name": "tiagoknow/2captcha-php",
     "description": "PHP package for easy integration with 2captcha API",
     "keywords": [
         "2captcha",
